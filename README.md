@@ -8,7 +8,7 @@
 # Running Server
 - cd into movieServer and run <code>yarn</code>
 - then run <code>yarn start</code> to start the server
-- to connect to app we need to use [Ngrok](https://github.com/bubenshchykov/ngrok#readme) download ngrok and run <code>ngrok http 300</code> and copy the following url to the <code>NGROK_URL</code> in <code>movieApp/config.js</code> file
+- to connect to app we need to use [Ngrok](https://github.com/bubenshchykov/ngrok#readme) download ngrok and run <code>ngrok http 3000</code> and copy the following url to the <code>NGROK_URL</code> in <code>movieApp/config.js</code> file
     
 <img style="margin: 20px" src="/screenshots/4.png" width="400px"></img> 
 
